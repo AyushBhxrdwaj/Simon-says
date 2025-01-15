@@ -24,7 +24,7 @@ You can check out the live demo of the project [here](https://simon-say.pages.de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simon-says-game.git
+   git clone https://github.com/AyushBhxrdwaj/simon-says-game.git
    ```
 2. Navigate to the project folder:
    ```bash
